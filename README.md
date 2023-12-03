@@ -1,7 +1,7 @@
 # 💫About Me :
-I'm currently working on Data Structures and Algorithms
+I'm currently improving my knowledge over CNN & RNN
 I'm a self-learner by heart.
-Ask me about C,C++,Python,ML,DL & NLP.
+Ask me about C, C++, Python, ML, DL & NLP.
 
 
 ## 🌐Socials
