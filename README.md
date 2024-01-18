@@ -1,7 +1,7 @@
 # 💫About Me :
-I'm currently improving my knowledge over CNN & RNN
+I'm currently improving my Knowledge Horizons.
 I'm a self-learner by heart.
-Ask me about C, C++, Python, ML, DL & NLP.
+Good experience in working with C, C++, Python, JavaScript, Docker, Jenkins, AWS, ML, DL & NextJs. 
 
 
 ## 🌐Socials
